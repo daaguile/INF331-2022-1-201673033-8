@@ -6,7 +6,7 @@ Alumno: Diego Aguilera Alvarado
 
 ## Descripción
 
-Este simple scripts permite almacenar 2 cadenas de caracteres en una pila y luego compararlos.
+Este script permite almacenar 2 cadenas de caracteres en una pila y luego compararlos.
 
 ## Instalación
 
